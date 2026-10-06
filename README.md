@@ -1,0 +1,2 @@
+# nocratai-slot
+Slot machine 
