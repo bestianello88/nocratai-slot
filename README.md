@@ -1,2 +1,1 @@
-# nocratai-slot
-Slot machine 
+# demo app. for debug
